@@ -120,3 +120,14 @@ order: 2;
 }
 ```
 <hr>
+
+`grid-template-columns` & `grid-template-rows` <br>
+this property controls the coverage of each column and row in the grid system 
+```
+.system{
+grid-template columns: 35% 15% 50% ;
+grid-template-rows: 50% 50%;
+}
+```
+<hr>
+
